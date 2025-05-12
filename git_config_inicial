@@ -1,0 +1,15 @@
+# Primeira inicialização, se faz necessária á inicialização
+git config --global user.name "Daniel Nunes"
+git config --global user.email "danielnunes@outlook.com.br"
+
+# Para definir a branch na qual estamos trabalhando
+git config --global init.defaultBranch nomeDaBranch
+
+# Inicializar versionamento
+git init
+
+# Adicionar um único arquivo
+# git add main.py
+
+# Adicionar todos os arquivos
+git add .
