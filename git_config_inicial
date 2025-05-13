@@ -35,3 +35,6 @@ git commit -m "Primeira versão do jogo"
 
 # git push origin main
 # empurrar repo local para o git
+
+# git pull origin main
+# baixa tudo do repo la pro pc, quando trabalhamos em colaboracao
