@@ -16,3 +16,5 @@ git add .
 
 # commit -m
 git commit -m "Primeira versão do jogo"
+
+# git show
