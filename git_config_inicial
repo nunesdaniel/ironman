@@ -17,4 +17,21 @@ git add .
 # commit -m
 git commit -m "Primeira versão do jogo"
 
-# git show
+# git log
+
+# git checkout idCommit
+# git checkout 146d2db5c15996633d285b4cbeb2d1befed4bb89
+# ele retorna o código para como estava
+
+# git checkout master
+# ele retorna ao código anterior
+
+# devido a uma conotação racista, alteramos o nome da branch de master para main
+# git branch -m master main
+
+# git remove add origin 
+# git remote add origin https://github.com/nunesdaniel/ironman.git
+# https://github.com/nunesdaniel/ironman.git
+
+# git push origin main
+# empurrar repo local para o git
